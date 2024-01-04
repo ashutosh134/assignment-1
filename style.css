@@ -159,6 +159,64 @@
 } 
 
 
+
+@media (max-width:480px){
+
+
+   
+
+    .navbar{
+        width:100%;
+    
+    }
+
+    .left-part{
+        padding-inline:90px;
+    }
+
+    .left-part h2{
+        font-size:25px;
+    }
+
+    .right-part ul{
+        display:none;
+    }
+
+    .page-1{
+        width:100%;
+        height:auto;
+    }
+
+    .text-part{
+        width:100%;
+        height:auto;
+    }
+
+    
+    
+    .text{
+        width:100%;
+        height:auto;
+        padding:30px;
+    }
+
+    .text h1{
+        font-size:20px;
+    }
+    .text p{
+        font-size:15px;
+    }
+    .text button{
+        width:90px;
+        height:40px;
+    }
+
+    .image img{
+       display:none;
+    }
+} 
+
+
  
     
     
